@@ -24,7 +24,7 @@ By combining a deterministic Machine Learning predictive engine (`Scikit-Learn`)
 
 Below is the latest generated diagnostic visualization and rolling forecast overview:
 
-![Forecast & Tipping Point Plot](outputs/forecast_plot.png)
+![Forecast & Tipping Point Plot](outputs/heatwave_diagnostic_rolling.png)
 
 *The plot displays the NINO3.4 SST anomaly trajectory alongside the Hadley Cell saturation probability and the distance to the +3.34 °C Permanent El Niño tipping threshold.*
 
@@ -89,5 +89,5 @@ python main.py
 The output report and generated plots are saved to:
 
 outputs/
-├── forecast_plot.png
-└── report_rolling_4_settimane.md
+- heatwave_diagnostic_rolling.png
+- report_rolling_4_settimane.md
