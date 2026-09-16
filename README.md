@@ -99,4 +99,4 @@ This project is licensed under the **GNU General Public License v3.0** (GPLv3).
 Copyright (C) 2026 Enrico Pozzi
 Questo programma è software libero: puoi ridistribuirlo e/o modificarlo secondo i termini della GNU General Public License come pubblicata dalla Free Software Foundation, o la versione 3 della licenza, o (a tua scelta) una versione successiva.
 
-Vedi il file [LICENSE](LICENSE) per il testo completo della licenza
+Consulta il file [LICENSE](./LICENSE) presente nel repository o visita il sito ufficiale della [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html) per il testo completo.
