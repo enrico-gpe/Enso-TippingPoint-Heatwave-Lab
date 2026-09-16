@@ -91,3 +91,12 @@ The output report and generated plots are saved to:
 outputs/
 - heatwave_diagnostic_rolling.png
 - report_rolling_4_settimane.md
+
+## License
+
+
+This project is licensed under the **GNU General Public License v3.0** (GPLv3).
+Copyright (C) 2026 Enrico Pozzi
+Questo programma è software libero: puoi ridistribuirlo e/o modificarlo secondo i termini della GNU General Public License come pubblicata dalla Free Software Foundation, o la versione 3 della licenza, o (a tua scelta) una versione successiva.
+
+Vedi il file [LICENSE](LICENSE) per il testo completo della licenza
