@@ -3,7 +3,7 @@
 > **ML Pipeline & Physics-Informed Local LLM Agent for Mediterranean Heatwave Forecasting and ENSO Tipping Point Dynamics**
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Ollama](https://img.shields.io/badge/LLM-Ollama_Llama3.2-orange.svg)](https://ollama.ai/)
 
 ---
